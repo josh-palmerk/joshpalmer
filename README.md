@@ -8,10 +8,12 @@ Ask me about algorithms & software design.
 - Java
 - HTML/CSS
 - Javascript
+- Bash
 - mySQL
 - Basic database design
 - OOP
 - Basic Pandas
+- Django
 
 ## Projects
 I have many projects around my profile, some more impressive than others. I'm most proud of the games I've worked on, including the Bullet Hell and the Kotlin Chess.
@@ -19,3 +21,21 @@ I have many projects around my profile, some more impressive than others. I'm mo
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/joshpalmerk/)
 - [Resume]()
+
+
+
+<div>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+</div>
+
+          
